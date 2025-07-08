@@ -21,3 +21,7 @@ wheels/
 
 #data directory
 data/
+data
+
+#project specific
+uv.lock
