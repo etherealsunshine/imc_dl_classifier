@@ -1,0 +1,21 @@
+{
+  "best_val_accuracy": 0.8461538461538461,
+  "dataset_info": {
+    "num_classes": 2,
+    "class_names": [
+      "Benign",
+      "Malignant"
+    ],
+    "class_weights": [
+      3.9375,
+      0.5727272629737854
+    ],
+    "train_size": 50,
+    "val_size": 13,
+    "total_samples": 63,
+    "classification_task": "condition",
+    "augmentation_enabled": true,
+    "augmentation_strength": 0.7
+  },
+  "final_epoch": 15
+}
